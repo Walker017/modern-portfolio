@@ -25,7 +25,7 @@ export default function Skills() {
         </h1>
         <div className="h-1 w-14 rounded-full bg-gradient-to-r from-sky-200 to-blue-400 md:w-20 md:h-2"></div>
         <p className="text-gray-400 font-[400] text-md mt-3">
-          Technologies and tools I used.
+          la technologie que nous utilisont.
         </p>
       </header>
 

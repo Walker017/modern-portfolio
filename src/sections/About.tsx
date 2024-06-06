@@ -16,33 +16,29 @@ export default function About() {
         <div className="mx-6 md:ml-10 md:mr-40 mt-8">
           <SlideAnimation>
             <p className="text-gray-400 font-[400] text-md mt-3">
-              I'm a 15-year-old full-stack web developer, mainly focusing on
-              frontend work, and I've been doing this for over two years now.
+              Notre Communauté creer en 2024 Pour apprendre une meilleure expérience aux jeunes développer pour creer leur site web ou encore leur chatbot messenger.
             </p>
           </SlideAnimation>
           <SlideAnimation>
             <p className="text-gray-400 font-[400] text-md mt-3">
-              I've worked on lots of different projects, learning how to make
-              things run smoother and faster. I like working in busy places
-              where there's always something new to learn.
+              Toute fois Nous contribuons aussi à la formation de hacking et piratage des réseaux socio, Mais aussi nous aidons les jeunes à progresser dans leur marche en programmation.
             </p>
           </SlideAnimation>
           <SlideAnimation>
             <p className="text-gray-400 font-[400] text-md mt-3">
-              In the future, I'm excited to continue collaborating on exciting
-              projects with exceptional teams.{" "}
+              Notre but est de creer un avec radieux des développer en informatique et en hacking 
+              nos project font partie des notre avenir  tout en donnant une meilleure culture aux jeunes programmeurs'
             </p>
           </SlideAnimation>
           <SlideAnimation>
             <p className="text-gray-400 font-[400] text-md mt-3">
-              My aim is to use my skills to make things better and faster,
-              especially on the frontend. As I keep going in my job, I want to
-              keep getting better, learning loads, and working with others.
+              Notre communauté est donc dédier aux jeunes pationner et ambitieux de la programmation 
+              nous contribuons aux bien des jeunes développer en leur ouvrant encore les eux pour apprendre quelques eurreurs commises et de pouvoir les reparer.
             </p>
           </SlideAnimation>
           <SlideAnimation>
             <p className="text-gray-400 font-[400] text-md mt-3">
-              I'm all about doing my best and making a difference in tech.
+          Nos effort contibuent au bien de tous la communauté ytb & chatgpt.
             </p>
           </SlideAnimation>
         </div>

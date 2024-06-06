@@ -2,7 +2,7 @@ export default function Footer() {
   return (
     <footer className="bg-gray-900 w-full">
       <header className="mx-6 pt-6 md:mx-10">
-        <a href="https://libyzxy0.com" className="text-2xl md:text-4xl font-semibold tracking-tight text-white flex flex-row">
+        <a href="https://fatkey.site.live" className="text-2xl md:text-4xl font-semibold tracking-tight text-white flex flex-row">
           <p className="text-sky-300">liby</p>zxy0
         </a>
         <div className="h-1 w-14 rounded-full bg-gradient-to-r from-sky-200 to-blue-400 md:w-16 md:h-2 pt-1"></div>
@@ -54,10 +54,10 @@ export default function Footer() {
         </div>
         <div className="mx-2 mt-4 border-l-4 border-gray-700 px-2">
           <p className="text-gray-400">
-            This portfolio is open-source and free to use, see repo{" "}
+            ce site est un dont de Metoushela walker l'administrateur du groupe.'
             <a
               className="text-sky-300 hover:underline"
-              href="https://github.com/libyzxy0/modern-portfolio"
+              href="https://github.com/Metoushael17/"
               target="_balnk"
             >
               here
@@ -68,10 +68,10 @@ export default function Footer() {
       </div>
       <div className="mt-8 w-full relative bottom-0 text-center flex items-center justify-center py-2 bg-gray-700">
         <p className="text-gray-400">
-          Made with 💙 and ☕ by <a
+          dispenser par metoushela. <a
             className="text-sky-300 hover:underline"
-            href="https://libyzxy0.com"
-          > libyzxy0</a>.
+            href="https://github.com/Metoushael17"
+          > Walker</a>.
         </p>
       </div>
     </footer>

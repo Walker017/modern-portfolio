@@ -36,7 +36,7 @@ export default function Projects() {
             title="TikDown.click"
             description="A website where you can download tiktok videos without watermark."
             link="https://tikdown.click"
-            repo="https://github.com/libyzxy0/tiktok-downloader"
+            repo="https://github.com/Metoushael17/tiktok-downloader"
             image={tikDownThumbnail}
             langs={["Vue", "JavaScript", "Tailwindcss", "Express", "Vercel"]}
           />
@@ -45,7 +45,7 @@ export default function Projects() {
             description="API that sends a lot of beautiful, cute, and hot girl tiktok videos."
             image={shotiThumbnail}
             link="https://shoti-api.deno.dev"
-            repo="https://github.com/libyzxy0/shoti"
+            repo="https://github.com/Metoushael17/shoti"
             langs={[
               "Nuxt",
               "JavaScript",
@@ -56,11 +56,11 @@ export default function Projects() {
             ]}
           />
           <Project
-            title="Modern Portfolio"
-            description="A modern portfolio using react, tailwindcss and shadcn ui."
+            title="communauté ypt chatgpt fr"
+            description="ce site utilise plein de langage pour fonctionner ."
             image={pThumbnail}
-            link="https://libyzxy0.com"
-            repo="https://github.com/libyzxy0/modern-portfolio"
+            link="nom du site"
+            repo="https://github.com/Metoushael17/"
             langs={[
               "React",
               "Tailwindcss", 
