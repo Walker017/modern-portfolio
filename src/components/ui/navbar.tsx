@@ -15,18 +15,18 @@ const Navbar: React.FC = () => {
   return (
     <nav className="sticky top-0 w-full h-14 md:h-16 bg-gray-950 flex flex-row items-center justify-between z-30 backdrop-filter backdrop-blur-md bg-opacity-30">
       <div className="flex flex-row items-center mx-4">
-        <a href="https://libyzxy0.com" className="text-2xl md:text-3xl font-semibold tracking-tight text-white flex flex-row">
-          <p className="text-sky-300">liby</p>zxy0
+        <a href="https://facebook.com/groups/1190124518960551/" className="text-2xl md:text-3xl font-semibold tracking-tight text-white flex flex-row">
+          <p className="text-sky-300">Group</p>$
         </a>
       </div>
       <div className="flex flex-row items-center mx-3">
-        <a href="https://linkedin.com/in/libyzxy0" className="text-white text-xl md:text-2xl  mx-1.5 hover:text-sky-400 transition-all duration-300">
-          <FaLinkedin />
+        <a href="https://github.com/Metoushael17" className="text-white text-xl md:text-2xl  mx-1.5 hover:text-sky-400 transition-all duration-300">
+          <Fagithub />
         </a>
-        <a href="https://x.com/libyzxy0" className="text-white text-xl md:text-2xl mx-1.5 hover:text-sky-400 transition-all duration-300">
+        <a href="https://facebook.com/groups/1190124518960551/" className="text-white text-xl md:text-2xl mx-1.5 hover:text-sky-400 transition-all duration-300">
           <FaXTwitter />
         </a>
-        <a href="https://github.com/libyzxy0" className="text-white text-xl md:text-2xl mx-1.5 hover:text-sky-400 transition-all duration-300">
+        <a href="https://github.com/Metoushael17" className="text-white text-xl md:text-2xl mx-1.5 hover:text-sky-400 transition-all duration-300">
           <FaGithub />
         </a>
 
@@ -40,7 +40,7 @@ const Navbar: React.FC = () => {
             <DropdownMenuItem>
               <a
                 className="hover:text-sky-400 transition-all duration-300"
-                href="#"
+                href="https://another-gpt.onrender.com/"
               >
                 Start
               </a>
